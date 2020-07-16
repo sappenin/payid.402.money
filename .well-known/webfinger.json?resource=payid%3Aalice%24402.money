@@ -1,7 +1,7 @@
 {
-  "subject": "payid:sappenin$payid.402.money",
+  "subject": "payid:alice$payid.402.money",
   "aliases": [
-    "payid:pay$payid.402.money"
+    "payid:alice$402.money"
   ],
   "links": [
     {
