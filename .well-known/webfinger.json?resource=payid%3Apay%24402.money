@@ -1,10 +1,10 @@
 {
-  "subject": "payid:pay$402.money",
+  "subject": "payid:pay$payid.402.money",
   "aliases": [],
   "links": [
     {
       "rel": "https:\/\/payid.org\/ns\/payid-uri-template\/1.0",
-      "href": "https:\/\/402.money\/pay",
+      "href": "https:\/\/payid.402.money\/pay",
       "type": "application\/jrd+json"
     }
   ],

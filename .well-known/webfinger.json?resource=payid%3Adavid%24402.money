@@ -1,9 +1,9 @@
 {
-  "subject": "payid:david$402.money",
+  "subject": "payid:david$payid.402.money",
   "links": [
     {
       "rel": "https:\/\/payid.org\/ns\/payid-uri-template\/1.0",
-      "href": "https:\/\/402.money\/users\/david",
+      "href": "https:\/\/payid.402.money\/users\/david",
       "type": "application\/jrd+json"
     }
   ]
