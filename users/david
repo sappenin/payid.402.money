@@ -1,0 +1,16 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "x-address": "X7zmKiqEhMznSXgj9cirEnD5sWo3iZQ82QrjYXaVwB3cVM5",
+        "address": "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg",
+        "tag": "1698619802",
+        "test": false
+      }
+    }
+  ],
+  "payId": "david$402.money"
+}
