@@ -1,15 +1,10 @@
 {
   "subject": "payid:alice$payid.402.money",
-  "aliases": [
-    "payid:alice$402.money"
-  ],
   "links": [
     {
       "rel": "https:\/\/payid.org\/ns\/payid-discovery-url\/1.0",
-      "href": "https:\/\/payid.402.money\/.well-known\/webfinger?resource=payid%3Apay%24402.money",
+      "template": "https:\/\/payid.402.money\/users/alice",
       "type": "application\/jrd+json"
     }
-  ],
-  "properties": {
-  }
+  ]
 }
