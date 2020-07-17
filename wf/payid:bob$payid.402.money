@@ -1,5 +1,8 @@
 {
   "subject": "payid:bob$payid.402.money",
+  "aliases": [
+    "payid:bob$402.money"
+  ],
   "links": [
     {
       "rel": "https:\/\/payid.org\/ns\/payid-discovery-url\/1.0",
